@@ -1,0 +1,22 @@
+body{padding:0;
+     margin:0;
+     
+    }
+
+header{width:100%;
+       height:130px;
+       background-color:#0c090a;
+       color:#ffffff;}
+
+.foto{float:left;
+      width:20%;}
+
+.hlooho{float:right;
+        text-align:justify;
+        width:80%;}
+.l{color:orange;}
+
+.loko{height:110px;
+      width:150px;
+      border-radius:50%;}
+
